@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://www.amriky.net/</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.amriky.net/about</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.amriky.net/services</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.amriky.net/buy</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.amriky.net/buy/first-time-buyers</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.amriky.net/sell</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.amriky.net/sell/home-valuation</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.amriky.net/investment</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.amriky.net/testimonials</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.amriky.net/blog</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.amriky.net/contact</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.amriky.net/belleville</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.amriky.net/canton</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.amriky.net/dearborn</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.amriky.net/detroit</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.amriky.net/ypsilanti</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.amriky.net/westland</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.amriky.net/disclaimer</loc><changefreq>yearly</changefreq><priority>0.3</priority></url>
+  <url><loc>https://www.amriky.net/privacy-policy</loc><changefreq>yearly</changefreq><priority>0.3</priority></url>
+  <url><loc>https://www.amriky.net/sitemap</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
+</urlset>
